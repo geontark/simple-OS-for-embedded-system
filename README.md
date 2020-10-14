@@ -1,1 +1,1 @@
-# simple-OS-for-embedded-system
+# Simple-OS for embedded system
