@@ -20,6 +20,10 @@ embedded system RTOS
   git clone https://github.com/geontark/simple-OS-for-embedded-system.git  
   cd simple-OS-for-embedded-system 
   make all 
+  
+  make debug  
+  gdb-multiarch  
+  target remote:1234  
   ```
 
 ## Authors
