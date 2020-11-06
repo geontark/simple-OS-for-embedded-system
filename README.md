@@ -24,6 +24,9 @@ embedded system RTOS
   make debug  
   gdb-multiarch  
   target remote:1234  
+  file build/navilos.axf  
+  list  
+  info register  
   ```
 
 ## Authors
