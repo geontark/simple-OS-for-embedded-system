@@ -17,7 +17,7 @@ embedded system RTOS
   sudo apt install qemu-system-arm  
   sudo apt-get install -y gdb-multiarch  
   
-  git clone <copy-url>  
+  git clone https://github.com/geontark/simple-OS-for-embedded-system.git  
   cd simple-OS-for-embedded-system 
   make all 
   ```
